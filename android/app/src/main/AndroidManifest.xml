@@ -1,0 +1,12 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ... other configurations ... -->
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- ... other configurations ... -->
+
+</manifest>

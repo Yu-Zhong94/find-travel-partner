@@ -1,0 +1,11 @@
+<key>NSCameraUsageDescription</key>
+<string>Your app needs access to the camera</string>
+
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location for full functionality</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Allow $(PRODUCT_NAME) to access your photos</string>
+
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>Allow $(PRODUCT_NAME) to save photos</string>
