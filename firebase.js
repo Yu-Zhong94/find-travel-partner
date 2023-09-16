@@ -5,13 +5,13 @@ import * as Location from 'expo-location';
 import { PermissionsAndroid, Platform } from 'react-native';
 import geolib from 'geolib';
 const firebaseConfig = {
-  apiKey: 'AIzaSyBpBj_tvSpVwTvQioOqsmqilzRa8I_nerQ',
-  authDomain: 'travel-partner-finder.firebaseapp.com',
-  databaseURL: 'https://travel-partner-finder-default-rtdb.firebaseio.com',
-  projectId: 'travel-partner-finder',
-  storageBucket: 'travel-partner-finder.appspot.com',
-  messagingSenderId: '572218620348',
-  appId: '1:572218620348:web:ab1726bdb83668b65413b9',
+  apiKey: ' ',
+  authDomain: ' ',
+  databaseURL: ' ',
+  projectId: ' ',
+  storageBucket: ' ',
+  messagingSenderId: ' ',
+  appId: ' ',
 };
 
 if (!firebase.apps.length) {
